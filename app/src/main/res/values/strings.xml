@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PDM_2021_II_I2_INVESTIGACION1</string>
+    <string name="producto">Producto</string>
+    <string name="ingrese_el_nombre_o_tipo_de_producto">Ingrese el nombre o tipo de producto</string>
+    <string name="ingrese_el_valor_del_producto">Ingrese el valor del producto</string>
+    <string name="valor">Valor</string>
+    <string name="descuento">Descuento</string>
+    <string name="calcular">Calcular</string>
+    <string name="ingrese_el_de_descuento">Ingrese el % de descuento</string>
+
+    <string name="Datos_no_validos">Datos no validos</string>
+</resources>
